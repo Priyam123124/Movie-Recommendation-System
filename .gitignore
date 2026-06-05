@@ -1,0 +1,3 @@
+movie_words.model
+movie_words.model.syn1neg.npy
+movie_words.model.wv.vectors.npy
